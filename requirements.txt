@@ -1,0 +1,16 @@
+torch
+torchaudio
+transformers>=4.40
+datasets>=2.18
+accelerate
+evaluate
+jiwer
+soundfile
+librosa
+numpy
+pandas
+pyyaml
+sentencepiece
+safetensors
+streamlit
+scipy

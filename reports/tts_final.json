@@ -1,0 +1,21 @@
+{
+  "model": "models/tts/tam/v2",
+  "samples": [
+    {
+      "text": "வணக்கம் கவின்",
+      "language": "tam",
+      "audio": "reports/tts_final/001.wav"
+    },
+    {
+      "text": "₹25,500",
+      "language": "tam",
+      "audio": "reports/tts_final/002.wav"
+    },
+    {
+      "text": "Veltech AI 2026",
+      "language": "hin",
+      "audio": "reports/tts_final/003.wav"
+    }
+  ],
+  "human_review_required": true
+}

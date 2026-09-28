@@ -1,0 +1,3 @@
+{"audio":"data/stt/audio/RECORD_AUDIO_001.wav","language":"ta","model_output":"வணக்கம் கவின்","corrected_text":"வணக்கம் கவின்","source":"human_correction"}
+{"audio":"data/stt/audio/RECORD_AUDIO_002.wav","language":"ta","model_output":"நான் இன்று அலுவிடத்திற்குச் செல்கிறேன்","corrected_text":"நான் இன்று அலுவலகத்திற்கு செல்கிறேன்.","source":"human_correction"}
+{"audio":"data/stt/audio/RECORD_AUDIO_003.wav","language":"ta","model_output":"வணக்கம் என்பயர் கவின்","corrected_text":"வணக்கம், என் பெயர் கவின்.","source":"human_correction"}

@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+models/stt/v1/checkpoint-*/
+models/**/*.safetensors
+models/**/*.pt
+models/**/*.pth

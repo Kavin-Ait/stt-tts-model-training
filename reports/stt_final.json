@@ -1,0 +1,19 @@
+{
+  "model": "models/stt/v1",
+  "samples": 3,
+  "wer": 1.2,
+  "predictions": [
+    {
+      "reference": "வணக்கம் கவின்",
+      "prediction": " கவின் இன்று செல்கிறார்."
+    },
+    {
+      "reference": "Order 123 is ready on 26/09/2026.",
+      "prediction": " Order 123 is ready on 26 slash 09 slash 09."
+    },
+    {
+      "reference": "AI-2026 Veltech.AI",
+      "prediction": " AI Ifund 2026, welltech.ai"
+    }
+  ]
+}

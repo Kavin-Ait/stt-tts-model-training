@@ -1,0 +1,16 @@
+{
+  "base_model": "facebook/mms-tts-tam",
+  "dataset": "data/tts/corrections.jsonl",
+  "epochs": 1,
+  "learning_rate": 1e-06,
+  "sample_rate": 16000,
+  "records": 3,
+  "loss_history": [
+    {
+      "epoch": 1,
+      "loss": 0.529471238454183
+    }
+  ],
+  "training_method": "model-level spectrogram reconstruction fine-tuning",
+  "note": "Pretrained MMS/VITS parameters were updated using text-conditioned generated waveform spectrograms against real reference speech."
+}

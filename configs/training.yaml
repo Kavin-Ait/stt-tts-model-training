@@ -1,0 +1,39 @@
+stt:
+  base_model: openai/whisper-small
+  epochs: 3
+  learning_rate: 0.00001
+  batch_size: 2
+  gradient_accumulation_steps: 4
+  warmup_steps: 50
+  validation_split: 0.1
+
+tts:
+  default_model: facebook/mms-tts-tam
+  epochs: 3
+  learning_rate: 0.000001
+  batch_size: 1
+  gradient_accumulation_steps: 4
+  sample_rate: 16000
+
+languages:
+  stt:
+    en: English
+    ta: Tamil
+    hi: Hindi
+    te: Telugu
+    kn: Kannada
+    ml: Malayalam
+    bn: Bengali
+    mr: Marathi
+    gu: Gujarati
+    pa: Punjabi
+  tts:
+    tam: Tamil
+    hin: Hindi
+    tel: Telugu
+    kan: Kannada
+    mal: Malayalam
+    ben: Bengali
+    mar: Marathi
+    guj: Gujarati
+    pan: Punjabi

@@ -1,0 +1,5 @@
+{"id":"tts-001","text":"வணக்கம் கவின்.","language":"tam","reference_audio":"data/tts/audio/RECORD_AUDIO_001.wav","source":"human_reference"}
+{"id":"tts-002","text":"நான் இன்று அலுவலகத்திற்கு செல்கிறேன்.","language":"tam","reference_audio":"data/tts/audio/RECORD_AUDIO_002.wav","source":"human_reference"}
+{"id":"tts-003","text":"வணக்கம், என் பெயர் கவின்.","language":"tam","reference_audio":"data/tts/audio/RECORD_AUDIO_003.wav","source":"human_reference"}
+{"text": "நான் இன்று அலுவலகத்திற்கு செல்கிறேன்.", "language": "tam", "reference_audio": "data/tts/audio/TTS_CORRECTION_002.wav", "source": "human_reference"}
+{"text": "வணக்கம், என் பெயர் கவின்.", "language": "tam", "reference_audio": "data/tts/audio/TTS_CORRECTION_003.wav", "source": "human_reference"}

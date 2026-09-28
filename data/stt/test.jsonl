@@ -1,0 +1,3 @@
+{"audio":"data/stt/audio/TEST_TAMIL_001.wav","language":"ta","reference":"வணக்கம் கவின்"}
+{"audio":"data/stt/audio/TEST_NUMBERS_001.wav","language":"en","reference":"Order 123 is ready on 26/09/2026."}
+{"audio":"data/stt/audio/TEST_ALPHANUMERIC_001.wav","language":"en","reference":"AI-2026 Veltech.AI"}

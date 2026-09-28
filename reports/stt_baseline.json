@@ -1,0 +1,20 @@
+{
+  "model": "openai/whisper-small",
+  "status": "pending_evaluation",
+  "samples": 3,
+  "wer": null,
+  "predictions": [
+    {
+      "reference": "வணக்கம் கவின்",
+      "prediction": null
+    },
+    {
+      "reference": "Order 123 is ready on 26/09/2026.",
+      "prediction": null
+    },
+    {
+      "reference": "AI-2026 Veltech.AI",
+      "prediction": null
+    }
+  ]
+}
