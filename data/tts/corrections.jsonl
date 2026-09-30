@@ -3,3 +3,4 @@
 {"id":"tts-003","text":"வணக்கம், என் பெயர் கவின்.","language":"tam","reference_audio":"data/tts/audio/RECORD_AUDIO_003.wav","source":"human_reference"}
 {"text": "நான் இன்று அலுவலகத்திற்கு செல்கிறேன்.", "language": "tam", "reference_audio": "data/tts/audio/TTS_CORRECTION_002.wav", "source": "human_reference"}
 {"text": "வணக்கம், என் பெயர் கவின்.", "language": "tam", "reference_audio": "data/tts/audio/TTS_CORRECTION_003.wav", "source": "human_reference"}
+{"text":"24-07-2026 அன்று 14:30 மணிக்குள் மதுரைக்கு வரவிருந்த எல்பிஜி டேங்கர் TN88-AB-1234, ஜிபிஎஸ் சென்சார் பழுதாகி திருச்சி அருகே தாமதமாக உள்ளது. ஓட்டுநர் அவசரகால பழுதுபார்ப்புக்கு ₹5,850.50 செலவழித்துள்ளார். தயவுசெய்து டிராப் ஸ்டேட்டஸை டாஷ்போர்டில் உடனடியாக அப்டேட் செய்துவிட்டு, தாமதம் 18:00 டெலிவரி நேரத்தை பாதிக்கும் என்று ஃப்ளீட் மேனேஜருக்குத் தெரிவிக்கவும்.","language":"tam","reference_audio":"data/stt/audio/RECORD_AUDIO_004.wav","source":"human_reference"}
